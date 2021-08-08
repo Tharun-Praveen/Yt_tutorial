@@ -1,0 +1,9 @@
+.main {
+    
+    height: 100vh;
+    background:aqua;
+    background-size: cover;
+    background-position:center;
+    overflow-x: hidden;
+    position: relative;
+}
